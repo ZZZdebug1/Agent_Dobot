@@ -5,3 +5,4 @@
 
 实物采用设备为dobot桌面机械臂+吸泵+Realsense D435i相机
 仿真软件为Coppeliasim EDU 4.8，采用ZMQremote API远程通信
+仿真界面由PyQT5自行开发，做工粗糙仅练习使用
