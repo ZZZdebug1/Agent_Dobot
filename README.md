@@ -23,6 +23,9 @@ IDEA-Grounding-DINO-Base (本地化部署)
 
 
 # 原理
+![小论文-新 - visual selection](https://github.com/user-attachments/assets/f359bd83-0fe2-48b7-aded-279b89cb3d72)
+
+
 
 # 相关视频
 
