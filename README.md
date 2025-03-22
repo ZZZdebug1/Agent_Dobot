@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Python-3.10%2B-blue" alt="Python"> <img src="https://img.shields.io/badge/Simulator-Coppeliasim%204.8 EDU-orange" alt="Coppeliasim"> <img src="https://img.shields.io/badge/Framework-PyQt5-green" alt="PyQt5">
 
 ## 🌟 项目概览
-面向大模型下的机械臂控制教学实验设计，包含**实物控制**、**仿真平台**和**交互界面**三大模块。通过多模态大模型实现自然语言理解、目标检测和动作编排，支持不同部署模式的大模型灵活切换。
+面向大模型下的机械臂控制教学实验设计，包含**实物控制**、**仿真平台**和**交互界面**三大模块。通过多种类大模型实现自然语言理解、目标检测和动作编排，支持不同部署模式的大模型灵活切换。
 
 ### 🛠️ 硬件配置
 - **机械臂**: Dobot Magician 桌面级
@@ -30,8 +30,12 @@
 
 ## 🎥 演示与解读
 
-[![B站演示](https://img.shields.io/badge/Bilibili-演示视频-00A1D6)](https://www.bilibili.com/video/BV1KKXzYoEik/?vd_source=754cd60572074e9c3818710bcb5bf283)  
+[![B站演示](https://img.shields.io/badge/Bilibili-演示视频-00A1D6)](https://www.bilibili.com/video/BV1KKXzYoEik/?vd_source=754cd60572074e9c3818710bcb5bf283) 
+
+https://www.bilibili.com/video/BV1KKXzYoEik/?vd_source=754cd60572074e9c3818710bcb5bf283
+
 [![CSDN技术解读](https://img.shields.io/badge/CSDN-技术解析-FF0000)]()
+
 
 ## 🖥️ 软件界面
 
@@ -39,7 +43,7 @@
 
 过程中日志会打印当前步骤，RGB和Depth下会输出RGB和深度图，截取当前帧和可视化后的抓取点图片会通过弹窗交由用户确认；
 
-完成一次指令后可重新输入指令以及选择模型，点击“继续执行”即可实现更换模型连续动作；
+完成一次指令后可重新输入指令以及选择模型，点击“继续执行”即可实现更换模型连续动作；（目前只做了与仿真通信）
 
 ![GUI界面](https://github.com/user-attachments/assets/fd5b5dd4-f71a-4f7d-b365-2806e9006841)
 
