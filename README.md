@@ -3,7 +3,8 @@
 <img src="https://img.shields.io/badge/Python-3.10%2B-blue" alt="Python"> <img src="https://img.shields.io/badge/Simulator-Coppeliasim%204.8 EDU-orange" alt="Coppeliasim"> <img src="https://img.shields.io/badge/Framework-PyQt5-green" alt="PyQt5">
 
 ## 🌟 项目概览
-面向大模型下的机械臂控制教学实验设计，包含**实物控制**、**仿真平台**和**交互界面**三大模块。通过多种类大模型实现自然语言理解、目标检测和动作编排，支持不同部署模式的大模型灵活切换。
+面向大模型下的机械臂控制教学实验设计，包含**实物控制**、**仿真平台**和**交互界面**三大模块。
+通过多种类大模型实现自然语言理解、目标检测和动作编排，支持不同部署模式的大模型灵活切换，创造出一个简单的具身智能体。
 
 ### 🛠️ 硬件配置
 - **机械臂**: Dobot Magician 桌面级
