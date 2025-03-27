@@ -31,9 +31,9 @@
 
 ## 🎥 演示与解读
 
-[![B站演示](https://img.shields.io/badge/Bilibili-演示视频-00A1D6)](https://www.bilibili.com/video/BV1KKXzYoEik/?vd_source=754cd60572074e9c3818710bcb5bf283) 
+[![B站演示](https://img.shields.io/badge/Bilibili-演示视频-00A1D6)](https://www.bilibili.com/video/BV1mdZgYtEcV/?share_source=copy_web&vd_source=c2602f17e0f83fa76a014d113eea745b&t=0) 
 
-https://www.bilibili.com/video/BV1KKXzYoEik/?vd_source=754cd60572074e9c3818710bcb5bf283
+https://www.bilibili.com/video/BV1mdZgYtEcV/?share_source=copy_web&vd_source=c2602f17e0f83fa76a014d113eea745b&t=0
 
 [![CSDN技术解读](https://img.shields.io/badge/CSDN-技术解析-FF0000)]()
 
