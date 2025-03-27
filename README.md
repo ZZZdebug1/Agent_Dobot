@@ -35,8 +35,10 @@
 
 https://www.bilibili.com/video/BV1mdZgYtEcV/?share_source=copy_web&vd_source=c2602f17e0f83fa76a014d113eea745b&t=0
 
-[![CSDN技术解读](https://img.shields.io/badge/CSDN-技术解析-FF0000)]()
+[![CSDN技术解读](https://img.shields.io/badge/CSDN-技术解析-FF0000)](https://blog.csdn.net/qq_57553723/article/details/144115368?spm=1001.2014.3001.5502)
 
+
+https://blog.csdn.net/qq_57553723/article/details/144115368?spm=1001.2014.3001.5502
 
 ## 🖥️ 软件界面
 
